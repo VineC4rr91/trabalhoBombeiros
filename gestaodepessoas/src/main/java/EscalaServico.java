@@ -10,3 +10,19 @@ public class EscalaServico {
 }
 public void consultar(){
 }
+
+public Date getData(Date data) {
+    return data;
+}
+
+public void setData(String data) {
+    this.data = data;
+}
+
+public String getTurno(String turno) {
+    return turno;
+}
+
+public void setTurno(String turno) {
+    this.turno = turno;
+}
