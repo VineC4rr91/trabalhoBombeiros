@@ -1,1 +1,1 @@
-// O certo é "Versão finaç do código.".
+// O certo é "Versão final do código.".
